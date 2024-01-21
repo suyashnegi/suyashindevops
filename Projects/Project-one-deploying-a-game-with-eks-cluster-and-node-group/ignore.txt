@@ -1,0 +1,1 @@
+we are setting up eks cluster and node group for compute after sucess of it we will be able to play 2048

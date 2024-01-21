@@ -1,0 +1,4 @@
+use cloud shell instead of local machine to edit .kube/config file
+ 
+dont forget to copy repo url from the start of the document
+
